@@ -6,7 +6,9 @@ sites:
   - name: Homepage
     url: https://dankolbman.xyz
   - name: Trips API
-    url: https://en.wikipedia.org
+    url: https://api.dankolbman.xyz/graphql/
+    method: POST
+    body: '{"operationName":"Trips","variables":{},"query":"query Trips {\n  trips {\n    edges {\n      node {\n        id\n        name\n        createdAt\n        description\n        icon\n        order\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
