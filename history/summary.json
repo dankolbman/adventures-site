@@ -4,7 +4,7 @@
     "url": "https://dankolbman.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dankolbman.xyz.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.56%",
     "uptimeWeek": "99.61%",
@@ -40,7 +40,7 @@
     "timeMonth": 234,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2022-11-03": 245,
+      "2022-11-03": 264,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
