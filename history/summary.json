@@ -6,14 +6,14 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
-    "time": 324,
-    "timeDay": 200,
-    "timeWeek": 1053,
-    "timeMonth": 533,
+    "time": 310,
+    "timeDay": 297,
+    "timeWeek": 1058,
+    "timeMonth": 535,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2023-12-26": 61,
@@ -32,12 +32,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 226,
-    "timeDay": 133,
-    "timeWeek": 183,
-    "timeMonth": 179,
+    "timeDay": 144,
+    "timeWeek": 184,
+    "timeMonth": 181,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2023-12-27": 22,
+      "2023-12-28": 22,
+      "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -400,8 +401,7 @@
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
-      "2022-12-29": 1440,
-      "2022-12-28": 1440
+      "2022-12-29": 1440
     }
   }
 ]
