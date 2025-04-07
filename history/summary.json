@@ -6,18 +6,16 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 1782,
-    "timeWeek": 598,
-    "timeMonth": 388,
+    "timeDay": 1724,
+    "timeWeek": 610,
+    "timeMonth": 390,
     "timeYear": 295,
-    "dailyMinutesDown": {
-      "2025-04-06": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trips API",
@@ -31,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 258,
-    "timeDay": 118,
-    "timeWeek": 237,
-    "timeMonth": 277,
-    "timeYear": 267,
+    "timeDay": 115,
+    "timeWeek": 209,
+    "timeMonth": 271,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-04-06": 1040,
+      "2025-04-07": 33,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -399,8 +398,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   }
 ]
