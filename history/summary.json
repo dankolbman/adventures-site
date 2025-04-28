@@ -4,18 +4,20 @@
     "url": "https://dankolbman.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dankolbman.xyz.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 548,
-    "timeWeek": 339,
-    "timeMonth": 414,
+    "timeDay": 452,
+    "timeWeek": 341,
+    "timeMonth": 412,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 9
+    }
   },
   {
     "name": "Trips API",
@@ -34,7 +36,7 @@
     "timeMonth": 231,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-04-28": 933,
+      "2025-04-28": 943,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
