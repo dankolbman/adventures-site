@@ -4,7 +4,7 @@
     "url": "https://dankolbman.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dankolbman.xyz.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 256,
     "timeMonth": 302,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   },
   {
     "name": "Trips API",
@@ -34,7 +36,7 @@
     "timeMonth": 203,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-06-05": 34,
+      "2025-06-05": 970,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
