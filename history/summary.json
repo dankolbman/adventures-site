@@ -4,19 +4,19 @@
     "url": "https://dankolbman.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dankolbman.xyz.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 289,
-    "timeWeek": 258,
-    "timeMonth": 247,
+    "timeDay": 284,
+    "timeWeek": 261,
+    "timeMonth": 248,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-12-30": 0
+      "2025-12-30": 8
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 259,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-12-30": 893,
+      "2025-12-30": 900,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
